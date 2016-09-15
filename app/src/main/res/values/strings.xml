@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialNew</string>
+    <string name="card_text">This transition tracks changes to the visibility of target views in the start and end scenes and moves views in or out from the edges of the scene. Visibility is determined by both the setVisibility(int) state of the view as well as whether it is parented in the current view hierarchy. Disappearing Views are limited as described in onDisappear(android.view.ViewGroup, TransitionValues, int, TransitionValues, int)</string>
+</resources>
