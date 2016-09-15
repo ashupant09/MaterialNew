@@ -33,4 +33,9 @@ public class MainActivity extends AppCompatActivity {
         int i = 1;
         i++;
     }
+    
+    public void checkChange(){
+        system.out.println("hello");
+    }
+    }
 }
