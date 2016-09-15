@@ -28,4 +28,9 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.main, menu);
         return super.onCreateOptionsMenu(menu);
     }
+
+    public void madeChanges(){
+        int i = 1;
+        i++;
+    }
 }
